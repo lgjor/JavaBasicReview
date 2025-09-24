@@ -8,9 +8,12 @@
 
 - ArithmeticAverage
 - Factorial
+- FizzBuzz
 - FromSumToProduct
 - GenerateAnInverted PyramidFromAsterisks
 - Grades
+- Identify Even And Odd Numbers
+- Maximum element divisible by four
 - Multiplication Table
 - NumberDetective Seeks Elusive Primes
 - Numbers DivisibleBySix
@@ -20,6 +23,7 @@
 - TheProductOfNumbersFromATOB
 - TheSumOfIntegersFromATOB
 - Twins
+
 
 ## While and do-while loops
 
