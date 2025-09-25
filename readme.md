@@ -4,7 +4,9 @@
 
 - Hello world 
 
-## For Loops
+## Estruturas de controle
+
+### For Loops
 
 - ArithmeticAverage
 - Factorial
@@ -25,16 +27,16 @@
 - Twins
 
 
-## While and do-while loops
+### While and do-while loops
 
 - Celsius Chase: Climbing to a Fiery Halt
+- Check Correctness
+- Chilling halt to a warm conversion
+- Conditions
 - Guess The Number
 - The largest element of a sequence
 - Powers of two
+- Smallest Multiple By 3 Larger Than N
 - Generate a string with 'odd' and 'even'
 - The sum of elements
 - The Length of the sequence
-- Chilling halt to a warm conversion
-
-
-
