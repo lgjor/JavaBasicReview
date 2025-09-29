@@ -1,0 +1,3 @@
+# Casting long to byte with intermediate int
+
+Imagine you're working on a Java program and you have a large numerical value stored in a data type that can handle larger numbers. You need to store this value in a less capable data type, but you need to make sure it fits - otherwise, data may be lost. Given this, can you fill in the blanks in the provided code to properly cast the long value to an int, and then the int to a byte?

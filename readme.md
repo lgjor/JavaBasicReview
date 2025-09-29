@@ -44,3 +44,24 @@
 ### Break and Continue - Branching
 
 - Bus Tour
+
+### Methods
+
+- Calculation Factorials
+- Raise to the power
+- Rectangles the shape of things to sum
+- The sign of a number
+
+### Code organization
+
+- A quadratic equation
+- Checking Divisibility and printing approprieate strings
+- Method create full name
+- Stop yeld go
+
+### Type casting
+
+- Casting long to byte with intermediate int
+- Converting and printing double values as integers
+- Rounding down a halved float value to an integer
+- Sequential conversions
