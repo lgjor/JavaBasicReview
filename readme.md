@@ -47,6 +47,8 @@
 
 ### Methods
 
+- Area of parallelogram
+- Product and rounded average of two integers
 - Calculation Factorials
 - Raise to the power
 - Rectangles the shape of things to sum
