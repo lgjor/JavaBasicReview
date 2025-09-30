@@ -67,3 +67,11 @@
 - Converting and printing double values as integers
 - Rounding down a halved float value to an integer
 - Sequential conversions
+
+### Arrays
+
+- Counting cookies in a digital jar
+- Initializing an array of characters
+- Initializing an array of longs
+- Initializing and using first element of array
+- Sum of multiples of 3 in an array
