@@ -1,0 +1,3 @@
+# Completing a method to print array elements
+
+You are given a partially completed Java program, and your task is to fill in the blanks in its code. The program should define an array of integers, pass it as an argument to a method, and then print out each element of the array within the method. The code within the main method and the printArray function are incomplete. Please fill in the missing parts of the program so that it works as expected.

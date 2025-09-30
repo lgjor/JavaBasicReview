@@ -47,9 +47,15 @@
 
 ### Methods
 
+- Adding Values
+- Application as a class
 - Area of parallelogram
-- Product and rounded average of two integers
 - Calculation Factorials
+- Product and rounded average of two integers
+- Filling the blanks to print array elements in a method
+- Get first and last elements
+- Inverse boolean flags
+- Product and rounded average of two integers
 - Raise to the power
 - Rectangles the shape of things to sum
 - The sign of a number
@@ -70,6 +76,8 @@
 
 ### Arrays
 
+- Completing a method to print array elements
+- Completing code to print an integer array
 - Counting cookies in a digital jar
 - Initializing an array of characters
 - Initializing an array of longs

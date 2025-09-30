@@ -1,0 +1,3 @@
+# Filling the blanks to print array elements in a method
+
+Suppose you are building an application that frequently needs to print all elements of an array in Java. To keep your code organized and scalable, you decided to encapsulate this functionality in a method which you can call each time you need this operation. You have already started writing the implementation but there are few blanks left. Your task is to fill in these blanks correctly so that the program prints the elements of array given as method's parameter without any errors or exceptions.
