@@ -1,0 +1,3 @@
+# Imenting polymorphic add functions
+
+Your task is to extend a simple Java program that provides two variations of an 'add' function. One function should add two integers and the other function should add two doubles. These functions should display polymorphic behavior so that the correct 'add' function is called based on the provided arguments. Fill the blanks in the code to correctly declare and implement these functions, ensuring to return the correct data type in each case.

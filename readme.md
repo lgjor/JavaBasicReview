@@ -76,10 +76,13 @@
 
 ### Arrays
 
+- Check if An arrays contains two numbers
 - Completing a method to print array elements
 - Completing code to print an integer array
 - Counting cookies in a digital jar
 - Initializing an array of characters
 - Initializing an array of longs
 - Initializing and using first element of array
+- Right Rotation
 - Sum of multiples of 3 in an array
+- The sum of array elements
