@@ -79,6 +79,7 @@
 - Check if An arrays contains two numbers
 - Completing a method to print array elements
 - Completing code to print an integer array
+- Count how many times a number occurs
 - Counting cookies in a digital jar
 - Initializing an array of characters
 - Initializing an array of longs
@@ -86,3 +87,4 @@
 - Right Rotation
 - Sum of multiples of 3 in an array
 - The sum of array elements
+- Two numbers never occur next to each other
