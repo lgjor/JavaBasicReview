@@ -6,6 +6,15 @@
 
 ## Estruturas de controle
 
+### Switch case
+
+- Adventure Game
+- Converting numerical values into words
+- Day of the week from an integer
+- Decoding traffic signal colors from input codes
+- Direction
+- Harry Potter
+
 ### For Loops
 
 - ArithmeticAverage
@@ -60,21 +69,21 @@
 - Rectangles the shape of things to sum
 - The sign of a number
 
-### Code organization
+## Code organization
 
 - A quadratic equation
 - Checking Divisibility and printing approprieate strings
 - Method create full name
 - Stop yeld go
 
-### Type casting
+## Type casting
 
 - Casting long to byte with intermediate int
 - Converting and printing double values as integers
 - Rounding down a halved float value to an integer
 - Sequential conversions
 
-### Arrays
+## Arrays
 
 - Check if An arrays contains two numbers
 - Completing a method to print array elements

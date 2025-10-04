@@ -1,4 +1,4 @@
-package org.desviante.estruturasdecontrole.switchcase.AdentureGame;
+package org.desviante.estruturasdecontrole.switchcase.AdventureGame;
 
 import java.util.Scanner;
 
