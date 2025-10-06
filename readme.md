@@ -94,6 +94,7 @@
 - Initializing an array of longs
 - Initializing and using first element of array
 - Right Rotation
+- Sum array elements greater than a value
 - Sum of multiples of 3 in an array
 - The sum of array elements
 - Two numbers never occur next to each other

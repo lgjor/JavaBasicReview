@@ -4,8 +4,7 @@ import java.util.Scanner;
 import java.util.Arrays;
 
 class Main {
-    // implement me
-    private static int[] rotate(int[] arr, int steps) {
+    private static int[] rotateRightOne(int[] arr, int steps) {
         for (int i=steps; i>0; i--){
             int mem = arr[arr.length-1]; // memorizo o último elemento
             // rodo os demais
@@ -28,8 +27,6 @@ class Main {
                 .toArray();
 
         int steps = Integer.parseInt(scanner.nextLine());
-
-        rotate(arr, steps);
 
         for (int i : arr) {
             System.out.print(i + " ");
