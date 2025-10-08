@@ -7,5 +7,6 @@ class Main {
         Scanner scanner = new Scanner(System.in);
         int value = scanner.nextInt();
         System.out.println(value<10?"true":"false");
+        scanner.close();
     }
 }

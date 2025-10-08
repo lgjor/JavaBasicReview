@@ -27,5 +27,6 @@ public class MainInt {
                 System.out.println("error!");
                 break;
         }
+        scanner.close();
     }
 }

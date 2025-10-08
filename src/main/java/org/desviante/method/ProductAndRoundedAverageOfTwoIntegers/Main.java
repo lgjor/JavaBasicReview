@@ -20,6 +20,6 @@ public class Main {
         int num2 = scanner.nextInt();
         System.out.println(product(num1, num2));
         System.out.println(average(num1, num2));
-        // Call the methods here and print the result.
+        scanner.close();
     }
 }

@@ -10,5 +10,6 @@ class Main {
         String input2 = scanner.nextLine();
         String input2NoSpaces = input2.replaceAll("\\s", "");
         System.out.println(input1NoSpaces.compareToIgnoreCase(input2NoSpaces) == 0);
+        scanner.close();
     }
 }

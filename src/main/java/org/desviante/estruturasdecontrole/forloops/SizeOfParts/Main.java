@@ -22,5 +22,6 @@ public class Main {
             }
         }
         System.out.println(totalNumberOfPartsReadyToBeShipped+" "+totalNumberOfPartsToBeFixed+" "+totalNumberOfRejects);
+        scanner.close();
     }
 }

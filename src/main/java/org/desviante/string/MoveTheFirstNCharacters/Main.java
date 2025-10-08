@@ -1,6 +1,5 @@
 package org.desviante.string.MoveTheFirstNCharacters;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Main {

@@ -15,5 +15,6 @@ public class Main {
             System.out.println(result);
             result *= 2;
         }
+        scanner.close();
     }
 }

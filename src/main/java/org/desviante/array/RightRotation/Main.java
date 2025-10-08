@@ -21,15 +21,18 @@ class Main {
 
     // do not change code below
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        int[] arr = Arrays.stream(scanner.nextLine().split(" "))
-                .mapToInt(Integer::parseInt)
-                .toArray();
+        try (Scanner scanner = new Scanner(System.in)) {
+            int[] arr = Arrays.stream(scanner.nextLine().split(" "))
+                    .mapToInt(Integer::parseInt)
+                    .toArray();
 
-        int steps = Integer.parseInt(scanner.nextLine());
+            int steps = Integer.parseInt(scanner.nextLine());
 
-        for (int i : arr) {
-            System.out.print(i + " ");
+            arr = rotateRightOne(arr, steps);
+
+            for (int i : arr) {
+                System.out.print(i + " ");
+            }
         }
     }
 }

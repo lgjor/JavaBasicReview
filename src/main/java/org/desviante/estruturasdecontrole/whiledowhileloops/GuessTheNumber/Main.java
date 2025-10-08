@@ -24,5 +24,6 @@ public class Main {
         } while (userGuess!=number);
 
         System.out.println("Congratulations! You guessed the correct number: " + number);
+        scanner.close();
     }
 }

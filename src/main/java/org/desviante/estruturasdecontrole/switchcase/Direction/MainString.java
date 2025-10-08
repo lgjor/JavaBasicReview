@@ -27,5 +27,6 @@ public class MainString {
                 System.out.println("error!");
                 break;
         }
+        scanner.close();
     }
 }

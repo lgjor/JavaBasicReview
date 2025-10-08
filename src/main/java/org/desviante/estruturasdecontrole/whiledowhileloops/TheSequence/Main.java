@@ -16,5 +16,6 @@ public class Main {
             remainingElements--;
         }
         System.out.println(max);
+        scanner.close();
     }
 }

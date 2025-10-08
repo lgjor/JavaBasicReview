@@ -29,5 +29,6 @@ public class Main {
                 .replace("]", "")
                 .replace(",", "");
         System.out.println(representation);
+        scanner.close();
     }
 }

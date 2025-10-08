@@ -25,6 +25,7 @@ public class Main {
         int a = scanner.nextInt();
         int b = scanner.nextInt();
         int c = scanner.nextInt();
+        scanner.close();
 
         double discriminant = calculateDiscriminant(a, b, c);
 

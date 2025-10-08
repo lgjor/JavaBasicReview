@@ -6,6 +6,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int num = scanner.nextInt();
+        scanner.close();
 
         // function calls of isDivByThree, isDivByFive, isDivByThreeAndFive will be here
         if (isDivByThreeAndFive(num)){

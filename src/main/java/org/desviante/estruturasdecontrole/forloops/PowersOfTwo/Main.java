@@ -12,6 +12,6 @@ public class Main {
         for(long i = 1; i < num; i*= 2) {
             System.out.println(i);
         }
-
+        scanner.close();
     }
 }

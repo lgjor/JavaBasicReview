@@ -1,7 +1,5 @@
 package org.desviante.arraymultidimensional.FindTheCorners;
 
-import java.util.Arrays;
-
 class ArrayOperations {
     public static void printCorners(int[][] twoDimArray) {
         final int firstElement = 0;

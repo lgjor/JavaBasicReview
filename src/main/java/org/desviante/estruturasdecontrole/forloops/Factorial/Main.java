@@ -11,5 +11,6 @@ public class Main {
             factorial *= ++i;
         }
         System.out.println("Factorial of " + number + ": " + factorial);
+        scanner.close();
     }
 }

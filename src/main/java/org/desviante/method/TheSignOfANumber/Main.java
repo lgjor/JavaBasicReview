@@ -21,5 +21,6 @@ public class Main {
         final Scanner scanner = new Scanner(System.in);
         final int n = scanner.nextInt();
         System.out.println(sign(n));
+        scanner.close();
     }
 }

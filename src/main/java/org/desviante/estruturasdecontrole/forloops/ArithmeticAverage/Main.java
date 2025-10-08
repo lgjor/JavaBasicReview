@@ -17,5 +17,6 @@ public class Main {
         }
         double arithimeticAvarage = sumOfNumbersDivisibleBy3/countOfNumbersDivisibleBy3;
         System.out.println(arithimeticAvarage);
+        scanner.close();
     }
 }

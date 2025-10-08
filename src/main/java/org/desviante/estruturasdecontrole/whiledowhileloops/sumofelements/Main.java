@@ -12,5 +12,6 @@ public class Main {
             actualNumber = scanner.nextInt();
         }
         System.out.println(sum);
+        scanner.close();
     }
 }

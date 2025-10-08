@@ -9,6 +9,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         int b = scanner.nextInt();
         int h = scanner.nextInt();
+        scanner.close();
         countAreaOfParallelogram(b, h);
     }
 

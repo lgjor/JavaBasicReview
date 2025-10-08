@@ -8,5 +8,6 @@ public class Main {
         for (int i = start; i <= end; i++) {    // (2)
             accumulator *= i;                   // (3) Acumulador não pode ser iniciado com zero, pois qualquer número múltiplicado por zero é zero.
         }
+        System.out.println(accumulator);        // Imprime o resultado do produto
     }
 }

@@ -15,7 +15,7 @@ public class Main {
             actualElement = scanner.nextInt();
         }
         System.out.println(largestElement);
-        // start coding here
+        scanner.close();
     }
 
 }

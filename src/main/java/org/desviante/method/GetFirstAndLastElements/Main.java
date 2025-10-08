@@ -17,5 +17,6 @@ public class Main {
                 .toArray();
         int[] result = getFirstAndLast(array);
         Arrays.stream(result).forEach(e -> System.out.print(e + " "));
+        scanner.close();
     }
 }

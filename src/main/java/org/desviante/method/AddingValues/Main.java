@@ -18,5 +18,6 @@ public class Main {
         long value = scanner.nextLong();
         addValueByIndex(array, index, value);
         Arrays.stream(array).forEach(e -> System.out.print(e + " "));
+        scanner.close();
     }
 }

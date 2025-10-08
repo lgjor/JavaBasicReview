@@ -23,5 +23,6 @@ class Main {
                 System.out.println("not a valid house");
                 break;
         }
+        scanner.close();
     }
 }
