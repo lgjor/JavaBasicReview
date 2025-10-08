@@ -87,9 +87,13 @@
 
 - Check burgs
 - Comparing Strings Ignoring white spaces
+- Create an Euphonious Word
 - Creating a personilized greeting
+- Double Characters
 - Extracting a specific character from a greeting message
 - Finding the longest word in a sentence
+- Modifying a string by changing letters and digits
+- Move the First N Characters
 - Replacing with b
 - The battle for mathematics
 
