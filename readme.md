@@ -83,6 +83,16 @@
 - Rounding down a halved float value to an integer
 - Sequential conversions
 
+## Strings
+
+- Check burgs
+- Comparing Strings Ignoring white spaces
+- Creating a personilized greeting
+- Extracting a specific character from a greeting message
+- Finding the longest word in a sentence
+- Replacing with b
+- The battle for mathematics
+
 ## Arrays
 
 - Check if An arrays contains two numbers
@@ -98,3 +108,4 @@
 - Sum of multiples of 3 in an array
 - The sum of array elements
 - Two numbers never occur next to each other
+
