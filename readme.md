@@ -49,6 +49,7 @@
 - Generate a string with 'odd' and 'even'
 - The sum of elements
 - The Length of the sequence
+- TheSequence
 
 ### Break and Continue - Branching
 
@@ -68,6 +69,11 @@
 - Raise to the power
 - Rectangles the shape of things to sum
 - The sign of a number
+- Circle
+- InABox
+- ComplexNumbers
+- IcorrectStatements
+- InvalidMethodInvocations
 
 ## Code organization
 
@@ -75,6 +81,7 @@
 - Checking Divisibility and printing approprieate strings
 - Method create full name
 - Stop yeld go
+- functionaldecomposition
 
 ## Type casting
 
@@ -113,3 +120,54 @@
 - The sum of array elements
 - Two numbers never occur next to each other
 
+## Super
+
+- Employees
+- BankAccount
+- FixTheNonCompiledHierarchy
+- InheritingShapesWithConstructors
+
+## Objects
+
+- Army
+- AccountAndItsOwner
+
+## Operators
+
+- CheckTheValue
+- ConditionalStatementRepetition
+- ValidatingAndSquaringUserInput
+- EvaluatingTheConjunctionOfTwoBooleans
+
+## Inheritance
+
+- ClassesForHospital
+- CalculatingTrianglePerimeter
+
+## StringBuilder
+
+- CreateAnEmail
+- ConcatAllStringsWithoutDigits
+- ReversingAStringUsingABuilder
+
+## Access Modifiers
+
+- CreatingAClassForABookWithPrivateProperties
+
+## Method Overriding
+
+- CreatingAndInvokingMethodsInAnimalAndDogClasses
+
+## Method Overloading
+
+- OverloadingMethods
+- ImplementingPolymorphicAddFunctions
+
+## Multidimensional Arrays
+
+- FindTheCorners
+
+## Static Methods and Fields
+
+- TooManyCats
+- TimeConstants
